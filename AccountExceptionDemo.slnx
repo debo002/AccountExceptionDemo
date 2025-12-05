@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AccountExceptionDemo/AccountExceptionDemo.vcxproj" />
+  <Project Path="AccountExceptionDemo/AccountExceptionDemo.vcxproj" Id="f2aa2ec4-4a35-4709-804d-2b8951d99aef" />
 </Solution>
